@@ -1,0 +1,25 @@
+_repo: An-Illustrated-Directory-of-the-Specifications-of-All-Domestic-and-Foreign-Motor-cars-and-Mot__65005
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: MoToR
+    gutenberg_agent_id: '53138'
+    url: http://www.gutenberg.org/2009/agents/53138
+  - agent_name: Motoring, The National Monthly Magazine of
+    gutenberg_agent_id: '53139'
+    url: http://www.gutenberg.org/2009/agents/53139
+description: ''
+gutenberg_issued: '2021-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An Illustrated Directory of the Specifications of All Domestic and Foreign
+  Motor-cars and Motor Business Wagons, Gasoline, Steam and Electric, Sold in this
+  Country, 1907
+url: http://www.gutenberg.org/ebooks/65005
