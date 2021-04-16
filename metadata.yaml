@@ -1,5 +1,8 @@
 _repo: An-Illustrated-Directory-of-the-Specifications-of-All-Domestic-and-Foreign-Motor-cars-and-Mot__65005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65005-h/images/cover.jpg
 creator:
   authors:
   - agent_name: MoToR
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53139'
     url: http://www.gutenberg.org/2009/agents/53139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65005#An-Illustrated-Directory-of-the-Specifications-of-All-Domestic-and-Foreign-Motor-cars-and-Mot_
 gutenberg_issued: '2021-04-06'
 gutenberg_type: Text
 identifiers:
